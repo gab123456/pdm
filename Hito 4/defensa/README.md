@@ -1,2 +1,18 @@
-Como instalar la libreria? 
-Esta liberia se lo importara mediante el comdad
+¿COMO IMPORTAR LA LIBRERIA? 
+Esta libreria se lo importara mediante el comando \n
+ npm i onboarding-gaby 
+#Que componentes debe importar esta librería? 
+![5](https://user-images.githubusercontent.com/48719100/84598215-24ad6880-ae37-11ea-9d33-736c3af7886a.PNG)
+
+
+Que diseño tiene que esta librería? 
+
+![1](https://user-images.githubusercontent.com/48719100/84598211-22e3a500-ae37-11ea-99db-5013c1e10948.PNG)
+![2](https://user-images.githubusercontent.com/48719100/84598212-237c3b80-ae37-11ea-8400-bb1d14c9140a.PNG)
+![3](https://user-images.githubusercontent.com/48719100/84598213-2414d200-ae37-11ea-9409-37d3ee95c4f7.PNG)
+![4](https://user-images.githubusercontent.com/48719100/84598214-2414d200-ae37-11ea-9b45-6e72afd63c58.PNG)
+  
+
+
+
+
