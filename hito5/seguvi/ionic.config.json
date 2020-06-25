@@ -1,0 +1,7 @@
+{
+  "name": "seguvi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
