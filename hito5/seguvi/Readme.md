@@ -20,5 +20,10 @@ _En la cual el usuario puede llegar a verificar si cuenta o no con multas pendie
 ### La vista de Comentarios:_
 _En la cual el usuario puede ingresar sus comentarios, dudas, quejas y estas seran almacenadas en la base de datos y mostradas en si vista_
 ![1 5](https://user-images.githubusercontent.com/48719100/85911596-162a5e00-b7f4-11ea-857b-c2292bcab74e.PNG)
-
-
+ # Usabilidad 
+ _Mediante esta parte se explica un poco el como es que utilizara nuestra aplicacion_
+ ![ini](https://user-images.githubusercontent.com/48719100/85924051-b2d51600-b85d-11ea-96d3-6caa5b8ed394.png)
+![menu](https://user-images.githubusercontent.com/48719100/85924052-b36dac80-b85d-11ea-943b-fc7ec1428ec4.png)
+![comen](https://user-images.githubusercontent.com/48719100/85924053-b4064300-b85d-11ea-8432-1ead2918a78e.png)
+![comen2](https://user-images.githubusercontent.com/48719100/85924054-b4064300-b85d-11ea-9142-168a130dafdb.png)
+![consul](https://user-images.githubusercontent.com/48719100/85924055-b4064300-b85d-11ea-89f9-c9753677b774.png)
