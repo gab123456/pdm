@@ -2,6 +2,12 @@
 _Esta aplicacion fue creada con el fin de ser una aplicacíon de informacion y consulta dentro de lo que es seguridad vial e infracciones, 
 como tambien la consulta en base a la informacion que se tiene en la base de datos._ 
 
+Instalacion
+-----------------------------
+```
+cd app 
+npm install 
+```
 Las vistas de la aplicacion son:
 --------------------------------
 ### La vista de inicio:
